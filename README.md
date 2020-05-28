@@ -90,21 +90,54 @@ Pritaikytos dvi skirtingos studentų dalinimo į kategorijas strategijos:
   * **2 strategija** - Bendro studentų konteinerio elementai, atitinkantys nustatyta sąlygą, yra perkeliami į naują konteinerį ir pašalinami iš originalaus konteinerio
 
 *Laikai atvaizduoti milisekundėmis*
+
+**1 bandymas**
+
+**Sąlygos:**
+
+5 Namų darbų rezultatai
+1000 įrašų
+
   **1 strategija**
 
   | Duomenų tipas | Nuskaitymas iš failo | Skirstymas į kategorijas |
 |:-------------:|:--------------------:|:------------------------:|
-|   Vektoriai   |          65          |             9            |
-|      Deka     |          73          |            34            |
-|    List'as    |          66          |            393           |
+|   Vektoriai   |          11          |             1            |
+|      Deka     |          12          |            3            |
+|    List'as    |          12          |            4           |
 
 **2 strategija**
 
 | Duomenų tipas | Nuskaitymas iš failo | Skirstymas į kategorijas |
 |:-------------:|:--------------------:|:------------------------:|
-|   Vektoriai   |          65          |           4302           |
-|      Deka     |          74          |           2846           |
-|    List'as    |          67          |            284           |
+|   Vektoriai   |          9          |           49           |
+|      Deka     |          1          |           32           |
+|    List'as    |          8          |            1           |
+
+
+**2 bandymas**
+
+**Sąlygos:**
+
+10 Namų darbų rezultatų
+10000 įrašų
+
+  **1 strategija**
+
+  | Duomenų tipas | Nuskaitymas iš failo | Skirstymas į kategorijas |
+|:-------------:|:--------------------:|:------------------------:|
+|   Vektoriai   |          93          |             10            |
+|      Deka     |          99          |            34            |
+|    List'as    |          91          |            446           |
+
+**2 strategija**
+
+| Duomenų tipas | Nuskaitymas iš failo | Skirstymas į kategorijas |
+|:-------------:|:--------------------:|:------------------------:|
+|   Vektoriai   |          86          |           4743           |
+|      Deka     |          96          |           3390           |
+|    List'as    |          87          |            307           |
+
 
 ## Naudojimosi instrukcija:
 1. Atsidarę šį puslapį, spauskite "Clone or Download" mygtuką, kad parsisiųstumėte programą
